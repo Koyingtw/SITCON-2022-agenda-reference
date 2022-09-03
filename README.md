@@ -2,7 +2,7 @@
 2022 SITCON 學生計算機年會 一般議程：想辦活動或比賽嗎？那先來看看我們吧 相關資源
 
 ### NHDK 四校聯合初學者程式設計練習賽
-- [Facebook](https://www.facebook.com/NHDK-%E5%9B%9B%E6%A0%A1%E8%81%AF%E5%90%88%E5%88%9D%E5%AD%B8%E8%80%85%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E7%B7%B4%E7%BF%92%E8%B3%BD-100900825156112/?ref=page_internal(
+- [Facebook](https://www.facebook.com/NHDK-%E5%9B%9B%E6%A0%A1%E8%81%AF%E5%90%88%E5%88%9D%E5%AD%B8%E8%80%85%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E7%B7%B4%E7%BF%92%E8%B3%BD-100900825156112/?ref=page_internal)
 - [Discord](https://discord.gg/kmKvRBjgKF)
 - [NHDK Codeforces Group](https://codeforces.com/group/H0qY3QmnOW/contests)
 
