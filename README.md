@@ -3,7 +3,7 @@
 
 ### 開頭
 - [Slido](https://app.sli.do/event/e2VjXaQXcWWavMSTbsVhZz)
-- [共筆](https://hackmd.io/@SITCON/2022/%2F%40SITCON%2FSkrMHNkgi)
+- [共筆](https://hackmd.io/@SITCON/2022/%2F%40SITCON%2FrJXVB4kxo)
 
 ### NHDK 與演算法競賽
 - [Codeforces](https://codeforces.com/)
